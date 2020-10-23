@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/guardian1/static/css/main.99410c1f.chunk.css",
+    "main.js": "/guardian1/static/js/main.2f5e6a2c.chunk.js",
+    "main.js.map": "/guardian1/static/js/main.2f5e6a2c.chunk.js.map",
+    "runtime-main.js": "/guardian1/static/js/runtime-main.c19e28f5.js",
+    "runtime-main.js.map": "/guardian1/static/js/runtime-main.c19e28f5.js.map",
+    "static/css/2.8f118048.chunk.css": "/guardian1/static/css/2.8f118048.chunk.css",
+    "static/js/2.9bcf66ba.chunk.js": "/guardian1/static/js/2.9bcf66ba.chunk.js",
+    "static/js/2.9bcf66ba.chunk.js.map": "/guardian1/static/js/2.9bcf66ba.chunk.js.map",
+    "index.html": "/guardian1/index.html",
+    "precache-manifest.ad96537d3d3c14ee6f25644c7214b0d2.js": "/guardian1/precache-manifest.ad96537d3d3c14ee6f25644c7214b0d2.js",
+    "service-worker.js": "/guardian1/service-worker.js",
+    "static/css/2.8f118048.chunk.css.map": "/guardian1/static/css/2.8f118048.chunk.css.map",
+    "static/css/main.99410c1f.chunk.css.map": "/guardian1/static/css/main.99410c1f.chunk.css.map",
+    "static/js/2.9bcf66ba.chunk.js.LICENSE.txt": "/guardian1/static/js/2.9bcf66ba.chunk.js.LICENSE.txt",
+    "static/media/banner_1.png": "/guardian1/static/media/banner_1.74df33ee.png",
+    "static/media/banner_2.png": "/guardian1/static/media/banner_2.6457a250.png",
+    "static/media/banner_3.png": "/guardian1/static/media/banner_3.33dd2cac.png",
+    "static/media/logo.svg": "/guardian1/static/media/logo.6527b1b8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c19e28f5.js",
+    "static/css/2.8f118048.chunk.css",
+    "static/js/2.9bcf66ba.chunk.js",
+    "static/css/main.99410c1f.chunk.css",
+    "static/js/main.2f5e6a2c.chunk.js"
+  ]
+}
