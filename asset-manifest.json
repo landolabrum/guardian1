@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/guardian1/static/css/main.d703fee6.chunk.css",
-    "main.js": "/guardian1/static/js/main.97603e90.chunk.js",
-    "main.js.map": "/guardian1/static/js/main.97603e90.chunk.js.map",
+    "main.css": "/guardian1/static/css/main.73cc8f69.chunk.css",
+    "main.js": "/guardian1/static/js/main.9490052e.chunk.js",
+    "main.js.map": "/guardian1/static/js/main.9490052e.chunk.js.map",
     "runtime-main.js": "/guardian1/static/js/runtime-main.c19e28f5.js",
     "runtime-main.js.map": "/guardian1/static/js/runtime-main.c19e28f5.js.map",
-    "static/css/2.f9aeaa4b.chunk.css": "/guardian1/static/css/2.f9aeaa4b.chunk.css",
-    "static/js/2.6f7213f7.chunk.js": "/guardian1/static/js/2.6f7213f7.chunk.js",
-    "static/js/2.6f7213f7.chunk.js.map": "/guardian1/static/js/2.6f7213f7.chunk.js.map",
+    "static/css/2.82f0dc74.chunk.css": "/guardian1/static/css/2.82f0dc74.chunk.css",
+    "static/js/2.55c32a85.chunk.js": "/guardian1/static/js/2.55c32a85.chunk.js",
+    "static/js/2.55c32a85.chunk.js.map": "/guardian1/static/js/2.55c32a85.chunk.js.map",
     "index.html": "/guardian1/index.html",
-    "precache-manifest.53a71bacf6ea59fb9a383857f18ae4af.js": "/guardian1/precache-manifest.53a71bacf6ea59fb9a383857f18ae4af.js",
+    "precache-manifest.a3787d8cc0424da1dd6ac373c94014da.js": "/guardian1/precache-manifest.a3787d8cc0424da1dd6ac373c94014da.js",
     "service-worker.js": "/guardian1/service-worker.js",
-    "static/css/2.f9aeaa4b.chunk.css.map": "/guardian1/static/css/2.f9aeaa4b.chunk.css.map",
-    "static/css/main.d703fee6.chunk.css.map": "/guardian1/static/css/main.d703fee6.chunk.css.map",
-    "static/js/2.6f7213f7.chunk.js.LICENSE.txt": "/guardian1/static/js/2.6f7213f7.chunk.js.LICENSE.txt",
+    "static/css/2.82f0dc74.chunk.css.map": "/guardian1/static/css/2.82f0dc74.chunk.css.map",
+    "static/css/main.73cc8f69.chunk.css.map": "/guardian1/static/css/main.73cc8f69.chunk.css.map",
+    "static/js/2.55c32a85.chunk.js.LICENSE.txt": "/guardian1/static/js/2.55c32a85.chunk.js.LICENSE.txt",
     "static/media/banner_1.png": "/guardian1/static/media/banner_1.74df33ee.png",
     "static/media/banner_2.png": "/guardian1/static/media/banner_2.6457a250.png",
     "static/media/banner_3.png": "/guardian1/static/media/banner_3.33dd2cac.png",
@@ -27,9 +27,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c19e28f5.js",
-    "static/css/2.f9aeaa4b.chunk.css",
-    "static/js/2.6f7213f7.chunk.js",
-    "static/css/main.d703fee6.chunk.css",
-    "static/js/main.97603e90.chunk.js"
+    "static/css/2.82f0dc74.chunk.css",
+    "static/js/2.55c32a85.chunk.js",
+    "static/css/main.73cc8f69.chunk.css",
+    "static/js/main.9490052e.chunk.js"
   ]
 }
