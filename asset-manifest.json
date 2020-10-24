@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/guardian1/static/css/main.c0ae8fe6.chunk.css",
-    "main.js": "/guardian1/static/js/main.bcbb498e.chunk.js",
-    "main.js.map": "/guardian1/static/js/main.bcbb498e.chunk.js.map",
+    "main.css": "/guardian1/static/css/main.a1d692ba.chunk.css",
+    "main.js": "/guardian1/static/js/main.131d903c.chunk.js",
+    "main.js.map": "/guardian1/static/js/main.131d903c.chunk.js.map",
     "runtime-main.js": "/guardian1/static/js/runtime-main.c19e28f5.js",
     "runtime-main.js.map": "/guardian1/static/js/runtime-main.c19e28f5.js.map",
     "static/css/2.82f0dc74.chunk.css": "/guardian1/static/css/2.82f0dc74.chunk.css",
-    "static/js/2.592937c7.chunk.js": "/guardian1/static/js/2.592937c7.chunk.js",
-    "static/js/2.592937c7.chunk.js.map": "/guardian1/static/js/2.592937c7.chunk.js.map",
+    "static/js/2.265d38ce.chunk.js": "/guardian1/static/js/2.265d38ce.chunk.js",
+    "static/js/2.265d38ce.chunk.js.map": "/guardian1/static/js/2.265d38ce.chunk.js.map",
     "index.html": "/guardian1/index.html",
-    "precache-manifest.df3f2e3e46cb5f47701a6af25c655a58.js": "/guardian1/precache-manifest.df3f2e3e46cb5f47701a6af25c655a58.js",
+    "precache-manifest.8e9bd3cf9f0c2315e7d7eb4f846a1a86.js": "/guardian1/precache-manifest.8e9bd3cf9f0c2315e7d7eb4f846a1a86.js",
     "service-worker.js": "/guardian1/service-worker.js",
     "static/css/2.82f0dc74.chunk.css.map": "/guardian1/static/css/2.82f0dc74.chunk.css.map",
-    "static/css/main.c0ae8fe6.chunk.css.map": "/guardian1/static/css/main.c0ae8fe6.chunk.css.map",
-    "static/js/2.592937c7.chunk.js.LICENSE.txt": "/guardian1/static/js/2.592937c7.chunk.js.LICENSE.txt",
+    "static/css/main.a1d692ba.chunk.css.map": "/guardian1/static/css/main.a1d692ba.chunk.css.map",
+    "static/js/2.265d38ce.chunk.js.LICENSE.txt": "/guardian1/static/js/2.265d38ce.chunk.js.LICENSE.txt",
     "static/media/banner_1.png": "/guardian1/static/media/banner_1.74df33ee.png",
     "static/media/banner_2.png": "/guardian1/static/media/banner_2.6457a250.png",
     "static/media/banner_3.png": "/guardian1/static/media/banner_3.33dd2cac.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.c19e28f5.js",
     "static/css/2.82f0dc74.chunk.css",
-    "static/js/2.592937c7.chunk.js",
-    "static/css/main.c0ae8fe6.chunk.css",
-    "static/js/main.bcbb498e.chunk.js"
+    "static/js/2.265d38ce.chunk.js",
+    "static/css/main.a1d692ba.chunk.css",
+    "static/js/main.131d903c.chunk.js"
   ]
 }
