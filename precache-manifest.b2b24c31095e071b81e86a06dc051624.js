@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2ec0790654d3f721527fb80e730ba2f",
+    "revision": "9fb9fe92b16e2842e18abd6075df34ab",
     "url": "/guardian1/index.html"
   },
   {
-    "revision": "d99a08dd5e3b6c55ebb5",
+    "revision": "d71b279611f51aca9e63",
     "url": "/guardian1/static/css/2.82f0dc74.chunk.css"
   },
   {
-    "revision": "2e0e3c2485b6ade030be",
-    "url": "/guardian1/static/css/main.eda697bb.chunk.css"
+    "revision": "55db4f33dec6f5d1dfcb",
+    "url": "/guardian1/static/css/main.deb56fd9.chunk.css"
   },
   {
-    "revision": "d99a08dd5e3b6c55ebb5",
-    "url": "/guardian1/static/js/2.05cfe37a.chunk.js"
+    "revision": "d71b279611f51aca9e63",
+    "url": "/guardian1/static/js/2.342d6b7a.chunk.js"
   },
   {
     "revision": "f6721cc19e6bc4812e12becc59aae507",
-    "url": "/guardian1/static/js/2.05cfe37a.chunk.js.LICENSE.txt"
+    "url": "/guardian1/static/js/2.342d6b7a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e0e3c2485b6ade030be",
-    "url": "/guardian1/static/js/main.43575897.chunk.js"
+    "revision": "55db4f33dec6f5d1dfcb",
+    "url": "/guardian1/static/js/main.b035ad28.chunk.js"
   },
   {
     "revision": "cf40173f6aa6bf10ed3b",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guardian1/static/media/logo.c290d546.svg"
   },
   {
+    "revision": "4251ead169551aa2074d0c16aad64b76",
+    "url": "/guardian1/static/media/my_shield.4251ead1.png"
+  },
+  {
     "revision": "37808d0c5cadef5497d0080cf3f76541",
     "url": "/guardian1/static/media/square_logo.37808d0c.svg"
   },
@@ -62,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8b0ac10b0889f311122d6eaf96274ded",
     "url": "/guardian1/static/media/tim_creviston.8b0ac10b.png"
+  },
+  {
+    "revision": "1a389eeb6e8e3a94d1dca7b13e9ffbff",
+    "url": "/guardian1/static/media/tom_ridge.1a389eeb.png"
   },
   {
     "revision": "e0d0da2ad95cd47dba60f64ef0ce47b0",
