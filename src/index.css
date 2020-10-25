@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.awssld__container {
+  display: block;
+  width: auto;
+  min-height: 1080px !important;
+  padding-bottom: var(--slider-height-percentage);
+}
