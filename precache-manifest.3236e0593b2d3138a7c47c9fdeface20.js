@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d8fca4ba236d7c339da25aedd19b1f4",
+    "revision": "45c42500701f849fdb24a71db506bf20",
     "url": "/guardian1/index.html"
   },
   {
-    "revision": "d71b279611f51aca9e63",
+    "revision": "a3d12452960adbd501e4",
     "url": "/guardian1/static/css/2.82f0dc74.chunk.css"
   },
   {
-    "revision": "bf099573fb53bd04a26b",
-    "url": "/guardian1/static/css/main.4e04bfaa.chunk.css"
+    "revision": "1d270a1e8ab8ec7e8e7d",
+    "url": "/guardian1/static/css/main.3dee7ba7.chunk.css"
   },
   {
-    "revision": "d71b279611f51aca9e63",
-    "url": "/guardian1/static/js/2.342d6b7a.chunk.js"
+    "revision": "a3d12452960adbd501e4",
+    "url": "/guardian1/static/js/2.1338b40e.chunk.js"
   },
   {
     "revision": "f6721cc19e6bc4812e12becc59aae507",
-    "url": "/guardian1/static/js/2.342d6b7a.chunk.js.LICENSE.txt"
+    "url": "/guardian1/static/js/2.1338b40e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf099573fb53bd04a26b",
-    "url": "/guardian1/static/js/main.02c58afc.chunk.js"
+    "revision": "1d270a1e8ab8ec7e8e7d",
+    "url": "/guardian1/static/js/main.a370adbb.chunk.js"
   },
   {
     "revision": "cf40173f6aa6bf10ed3b",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guardian1/static/media/tim_creviston.8b0ac10b.png"
   },
   {
-    "revision": "1a389eeb6e8e3a94d1dca7b13e9ffbff",
-    "url": "/guardian1/static/media/tom_ridge.1a389eeb.png"
+    "revision": "2c216b92cbbfadb43af1bfe1b5fe62a3",
+    "url": "/guardian1/static/media/tom_ridge.2c216b92.png"
   },
   {
     "revision": "e0d0da2ad95cd47dba60f64ef0ce47b0",
