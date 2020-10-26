@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/guardian1/static/css/main.deb56fd9.chunk.css",
-    "main.js": "/guardian1/static/js/main.b035ad28.chunk.js",
-    "main.js.map": "/guardian1/static/js/main.b035ad28.chunk.js.map",
+    "main.css": "/guardian1/static/css/main.4e04bfaa.chunk.css",
+    "main.js": "/guardian1/static/js/main.02c58afc.chunk.js",
+    "main.js.map": "/guardian1/static/js/main.02c58afc.chunk.js.map",
     "runtime-main.js": "/guardian1/static/js/runtime-main.c19e28f5.js",
     "runtime-main.js.map": "/guardian1/static/js/runtime-main.c19e28f5.js.map",
     "static/css/2.82f0dc74.chunk.css": "/guardian1/static/css/2.82f0dc74.chunk.css",
     "static/js/2.342d6b7a.chunk.js": "/guardian1/static/js/2.342d6b7a.chunk.js",
     "static/js/2.342d6b7a.chunk.js.map": "/guardian1/static/js/2.342d6b7a.chunk.js.map",
     "index.html": "/guardian1/index.html",
-    "precache-manifest.b2b24c31095e071b81e86a06dc051624.js": "/guardian1/precache-manifest.b2b24c31095e071b81e86a06dc051624.js",
+    "precache-manifest.a8411a706ae8095de8b015b0fed6caad.js": "/guardian1/precache-manifest.a8411a706ae8095de8b015b0fed6caad.js",
     "service-worker.js": "/guardian1/service-worker.js",
     "static/css/2.82f0dc74.chunk.css.map": "/guardian1/static/css/2.82f0dc74.chunk.css.map",
-    "static/css/main.deb56fd9.chunk.css.map": "/guardian1/static/css/main.deb56fd9.chunk.css.map",
+    "static/css/main.4e04bfaa.chunk.css.map": "/guardian1/static/css/main.4e04bfaa.chunk.css.map",
     "static/js/2.342d6b7a.chunk.js.LICENSE.txt": "/guardian1/static/js/2.342d6b7a.chunk.js.LICENSE.txt",
-    "static/media/banner_1.png": "/guardian1/static/media/banner_1.74df33ee.png",
+    "static/media/banner_1.png": "/guardian1/static/media/banner_1.33dd2cac.png",
     "static/media/banner_2.png": "/guardian1/static/media/banner_2.6457a250.png",
-    "static/media/banner_3.png": "/guardian1/static/media/banner_3.33dd2cac.png",
+    "static/media/banner_3.png": "/guardian1/static/media/banner_3.74df33ee.png",
     "static/media/dick_foreman.png": "/guardian1/static/media/dick_foreman.bf5fdac2.png",
     "static/media/larry_kohler.png": "/guardian1/static/media/larry_kohler.08be556d.png",
     "static/media/logo.svg": "/guardian1/static/media/logo.c290d546.svg",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.c19e28f5.js",
     "static/css/2.82f0dc74.chunk.css",
     "static/js/2.342d6b7a.chunk.js",
-    "static/css/main.deb56fd9.chunk.css",
-    "static/js/main.b035ad28.chunk.js"
+    "static/css/main.4e04bfaa.chunk.css",
+    "static/js/main.02c58afc.chunk.js"
   ]
 }

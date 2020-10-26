@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fb9fe92b16e2842e18abd6075df34ab",
+    "revision": "5d8fca4ba236d7c339da25aedd19b1f4",
     "url": "/guardian1/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guardian1/static/css/2.82f0dc74.chunk.css"
   },
   {
-    "revision": "55db4f33dec6f5d1dfcb",
-    "url": "/guardian1/static/css/main.deb56fd9.chunk.css"
+    "revision": "bf099573fb53bd04a26b",
+    "url": "/guardian1/static/css/main.4e04bfaa.chunk.css"
   },
   {
     "revision": "d71b279611f51aca9e63",
@@ -20,24 +20,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guardian1/static/js/2.342d6b7a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "55db4f33dec6f5d1dfcb",
-    "url": "/guardian1/static/js/main.b035ad28.chunk.js"
+    "revision": "bf099573fb53bd04a26b",
+    "url": "/guardian1/static/js/main.02c58afc.chunk.js"
   },
   {
     "revision": "cf40173f6aa6bf10ed3b",
     "url": "/guardian1/static/js/runtime-main.c19e28f5.js"
   },
   {
-    "revision": "74df33ee81d76dda39a14a5431dac0a1",
-    "url": "/guardian1/static/media/banner_1.74df33ee.png"
+    "revision": "33dd2caca095fe14fde47e6e515cabcd",
+    "url": "/guardian1/static/media/banner_1.33dd2cac.png"
   },
   {
     "revision": "6457a250ebe616ed8dc7c31b26a3f691",
     "url": "/guardian1/static/media/banner_2.6457a250.png"
   },
   {
-    "revision": "33dd2caca095fe14fde47e6e515cabcd",
-    "url": "/guardian1/static/media/banner_3.33dd2cac.png"
+    "revision": "74df33ee81d76dda39a14a5431dac0a1",
+    "url": "/guardian1/static/media/banner_3.74df33ee.png"
   },
   {
     "revision": "bf5fdac259598204fcd6d4d3d65ce183",
