@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/guardian1/static/css/main.ab4bb3a2.chunk.css",
-    "main.js": "/guardian1/static/js/main.83e98dd2.chunk.js",
-    "main.js.map": "/guardian1/static/js/main.83e98dd2.chunk.js.map",
+    "main.css": "/guardian1/static/css/main.1f97991a.chunk.css",
+    "main.js": "/guardian1/static/js/main.9c4f12f1.chunk.js",
+    "main.js.map": "/guardian1/static/js/main.9c4f12f1.chunk.js.map",
     "runtime-main.js": "/guardian1/static/js/runtime-main.c19e28f5.js",
     "runtime-main.js.map": "/guardian1/static/js/runtime-main.c19e28f5.js.map",
     "static/css/2.82f0dc74.chunk.css": "/guardian1/static/css/2.82f0dc74.chunk.css",
-    "static/js/2.d39fae83.chunk.js": "/guardian1/static/js/2.d39fae83.chunk.js",
-    "static/js/2.d39fae83.chunk.js.map": "/guardian1/static/js/2.d39fae83.chunk.js.map",
+    "static/js/2.cb9a1262.chunk.js": "/guardian1/static/js/2.cb9a1262.chunk.js",
+    "static/js/2.cb9a1262.chunk.js.map": "/guardian1/static/js/2.cb9a1262.chunk.js.map",
     "index.html": "/guardian1/index.html",
-    "precache-manifest.7f7c30b2d5ecc53ba6f4e188f91d3254.js": "/guardian1/precache-manifest.7f7c30b2d5ecc53ba6f4e188f91d3254.js",
+    "precache-manifest.477ee443a752317fd2dde3725409b32b.js": "/guardian1/precache-manifest.477ee443a752317fd2dde3725409b32b.js",
     "service-worker.js": "/guardian1/service-worker.js",
     "static/css/2.82f0dc74.chunk.css.map": "/guardian1/static/css/2.82f0dc74.chunk.css.map",
-    "static/css/main.ab4bb3a2.chunk.css.map": "/guardian1/static/css/main.ab4bb3a2.chunk.css.map",
-    "static/js/2.d39fae83.chunk.js.LICENSE.txt": "/guardian1/static/js/2.d39fae83.chunk.js.LICENSE.txt",
+    "static/css/main.1f97991a.chunk.css.map": "/guardian1/static/css/main.1f97991a.chunk.css.map",
+    "static/js/2.cb9a1262.chunk.js.LICENSE.txt": "/guardian1/static/js/2.cb9a1262.chunk.js.LICENSE.txt",
     "static/media/Asset_1.svg": "/guardian1/static/media/Asset_1.163b3ead.svg",
     "static/media/Asset_2.svg": "/guardian1/static/media/Asset_2.2ba08125.svg",
     "static/media/Asset_3.svg": "/guardian1/static/media/Asset_3.11c765bf.svg",
@@ -25,8 +25,8 @@
     "static/media/banner_3.png": "/guardian1/static/media/banner_3.74df33ee.png",
     "static/media/dick_foreman.png": "/guardian1/static/media/dick_foreman.bf5fdac2.png",
     "static/media/larry_kohler.png": "/guardian1/static/media/larry_kohler.08be556d.png",
-    "static/media/logo.svg": "/guardian1/static/media/logo.b4964a00.svg",
-    "static/media/square_logo.svg": "/guardian1/static/media/square_logo.37808d0c.svg",
+    "static/media/logo.svg": "/guardian1/static/media/logo.82be43ef.svg",
+    "static/media/square_logo.svg": "/guardian1/static/media/square_logo.f2fa86a0.svg",
     "static/media/steve_kohler.png": "/guardian1/static/media/steve_kohler.a6ed3c33.png",
     "static/media/tim_creviston.png": "/guardian1/static/media/tim_creviston.8b0ac10b.png",
     "static/media/tom_ridge.png": "/guardian1/static/media/tom_ridge.2c216b92.png",
@@ -35,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.c19e28f5.js",
     "static/css/2.82f0dc74.chunk.css",
-    "static/js/2.d39fae83.chunk.js",
-    "static/css/main.ab4bb3a2.chunk.css",
-    "static/js/main.83e98dd2.chunk.js"
+    "static/js/2.cb9a1262.chunk.js",
+    "static/css/main.1f97991a.chunk.css",
+    "static/js/main.9c4f12f1.chunk.js"
   ]
 }
