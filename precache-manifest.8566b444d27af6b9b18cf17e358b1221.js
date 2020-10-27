@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f531134d786aa34a91a67dd1b39e9a7a",
+    "revision": "3fc5578e44cbd52c1b88072c99db2e41",
     "url": "/guardian1/index.html"
   },
   {
-    "revision": "a3d12452960adbd501e4",
+    "revision": "e198da10e0a97b5dabce",
     "url": "/guardian1/static/css/2.82f0dc74.chunk.css"
   },
   {
-    "revision": "4b63736069c41b45e366",
-    "url": "/guardian1/static/css/main.f0da37f9.chunk.css"
+    "revision": "1976d3d168a8db28924a",
+    "url": "/guardian1/static/css/main.4cecc9dd.chunk.css"
   },
   {
-    "revision": "a3d12452960adbd501e4",
-    "url": "/guardian1/static/js/2.1338b40e.chunk.js"
+    "revision": "e198da10e0a97b5dabce",
+    "url": "/guardian1/static/js/2.23dd694e.chunk.js"
   },
   {
     "revision": "f6721cc19e6bc4812e12becc59aae507",
-    "url": "/guardian1/static/js/2.1338b40e.chunk.js.LICENSE.txt"
+    "url": "/guardian1/static/js/2.23dd694e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b63736069c41b45e366",
-    "url": "/guardian1/static/js/main.cc0dd8b8.chunk.js"
+    "revision": "1976d3d168a8db28924a",
+    "url": "/guardian1/static/js/main.409b4395.chunk.js"
   },
   {
     "revision": "cf40173f6aa6bf10ed3b",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guardian1/static/media/dick_foreman.bf5fdac2.png"
   },
   {
+    "revision": "91c56986d9063aed5fe190887f5e8141",
+    "url": "/guardian1/static/media/hand_sani.91c56986.jpg"
+  },
+  {
     "revision": "08be556d49b17e80571c0c1cdbf01e84",
     "url": "/guardian1/static/media/larry_kohler.08be556d.png"
   },
@@ -62,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a6ed3c336c7e140b5ca9d25af624cf85",
     "url": "/guardian1/static/media/steve_kohler.a6ed3c33.png"
+  },
+  {
+    "revision": "4d3289de67bd16b823f5df77cc71f4bd",
+    "url": "/guardian1/static/media/surface_cleaner.4d3289de.jpg"
   },
   {
     "revision": "8b0ac10b0889f311122d6eaf96274ded",
