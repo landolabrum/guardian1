@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from './img/logo/logo.svg';
-import square_logo from './img/logo/square_logo.svg';
+import logo from './media/img/logo.svg';
+import square_logo from './media/img/square_logo.svg';
 import M from "materialize-css";
 
 // import 'materialize-css/dist/css/materialize.min.css'
@@ -37,11 +37,13 @@ class Call_modal extends React.Component {
             </a>
           </div >
           : <Modal
+            modal="close"
+            node="button"
             name='action'
             className='center-align'
             actions={[
               <div className="fixed-action-btn">
-                <Button flat modal="close" node="button" waves="green">Close</Button>
+                <Button flat  waves="green">Close</Button>
               </div>
             ]}
             bottomSheet={false}
@@ -92,12 +94,8 @@ class Call_modal extends React.Component {
             > <Icon>
               mail
               </Icon>
-             
-             
             </a>
             <h6>  larry.kohler@guardian1.life</h6> 
-
-
           </Modal>
         }
       </a>
@@ -114,6 +112,7 @@ function App() {
           brand={
             <Link id='logo-container' to="/">
               <img
+                id="App-logo"
                 className='App-logo valign-wrapper'
                 src={logo}
                 alt="logo" />
@@ -121,7 +120,7 @@ function App() {
           }
           centerLogo
           className='grey darken-4'>
-          <div className='side_logo_container center-align'>
+          <div className='side_logo_container  center-align'>
             <Link to="/">
               <img
                 className='side_logo'
@@ -129,6 +128,7 @@ function App() {
                 alt="logo" /></Link>
 
           </div>
+          <Link to="/">Home</Link>
 
           <Link to="/about">About Us </Link>
           <Link to="/Services">Products & Services</Link>
